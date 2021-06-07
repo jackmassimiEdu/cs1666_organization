@@ -13,12 +13,24 @@ https://github.com/kem243/Fighting-Game
 	* Kenneth Meier
 		* Pitt ID: KEM243
 		* Github Username: kem243
+	* Nick
+		* Pitt ID: NSP29
+		* Github Username: nsp29
+	* (Fernando) Zixin Yang
+		* Pitt ID: ZIY13
+		* Github Username: ziy13
 
 * Advanced Topic Subteam 2: Multiplayer Network
 
-	* STUDENT2NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
+	* Alexis Sanders
+		* Pitt ID: ALS429
+		* Github Username: als429
+	* Ethan Dewit
+		* Pitt ID: ERD56
+		* Github Username: Ethan-Dewit
+	* (Steve) Khairat Ullah
+		* Pitt ID: KSU5
+		* Github USername: ksu5
 
 ## Game Description
 
