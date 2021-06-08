@@ -2,7 +2,7 @@
 
 ## Canonical game repo URL:
 
-https://github.com/tys25/cs1666_organization
+https://github.com/tys25/CS1666_Roguelike
 
 ## Team Members
 * Advanced Topic Subteam 1: Procedural Generation
@@ -18,7 +18,7 @@ https://github.com/tys25/cs1666_organization
 		* Github Username: tys25
 	* Jagr Krtanjek
 		* Pitt ID: KJK110
-		* Github Username: KJK110 (Jagr has been busy so we haven't gotten it yet)
+		* Github Username: jeepy33
 
 * Advanced Topic Subteam 2: Advanced AI
 
@@ -55,7 +55,7 @@ Art style is pixel art with only black and white with colors denoting enemy buff
 Level/floor is generated grid-based
 Our procedural generation implementation will be mostly based on the level layout.  Room generation will be random in some aspects and also part of the procedural generation . 
 Levels will be 8x8, but not every room is filled.
-Rooms will be 9x15 tiles
+Rooms will be 9x15 tiles (16x16px, 1x1 internal representation)
 Implementation Plan: (possible algorithms)
 Recursive DFS/Prim’s with modifiers.
 Potentially using a modified maze algorithm for the level.  
@@ -73,7 +73,7 @@ Responds to player action
 -Charging up attack
 -Running away
 -Focusing an enemy
--etc...
+-Each enemy will have a unique decision tree
 
 
 ## Specific milestones
@@ -104,28 +104,28 @@ Gets single reactive AI in the room
 Gets multiple AI to coordinate
 Enemies react as expected for each gameplay scenario
 
-## Midterm Goals %30
+## Midterm Goals
 
-* 3.75%: Test rooms used to demonstrate mechanics 
-* 3.75%: Player model moving/ interaction/ attack
-* 3.75%: Character can attack and kill enemies
-* 3.75%: Enemy models moving/ attacking
-* 3.75%: 1 enemy for each stat type designed
-* 3.75%: Final enemy is “absorbed”
-* 3.75%: Character able to die
-* 3.75%: UI is complete
+* Test rooms used to demonstrate mechanics 
+* Player model moving/ interaction/ attack
+* Character can attack and kill enemies
+* Enemy models moving/ attacking
+* 1 enemy for each stat type designed
+* Final enemy is “absorbed”
+* Character able to die
+* UI is complete
 
 ...
 
-## Final Goals %45
+## Final Goals %75
 
 * 15%: 3 levels procedurally generating
 * 5%: Character can enter new rooms
-* 5%: Enemies coordinate attacks based off of other enemies
-* 5%: Enemies React based off of player stats and player health
-* 5%: Enemies Respond to player action
-* 5%: Doors lock until all enemies are defeated
-* 5%: Final mob in room defeated drops buff/ buffs correctly add
+* 10%: Enemies coordinate attacks based off of other enemies
+* 10%: Enemies React based off of player stats and player health
+* 15%: Enemies Respond to player action
+* 10%: Doors lock until all enemies are defeated
+* 10%: Final mob in room defeated drops buff/ buffs correctly add
 
 ## Stretch Goals
 
