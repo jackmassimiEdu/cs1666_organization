@@ -31,7 +31,7 @@ https://github.com/ZHZ110/cs1666-Team-monster_town
 	
   	* Burhan Bhatti
 		* Pitt ID: bub3
-		* Github Username: 
+		* Github Username: bhattiburhan3
 
 ## Game Description
 
@@ -44,12 +44,10 @@ the following basic things that go into one of these games: Turn-based battle an
 
 Wild monsters appear on the map in spawnable areas according to their type. They each has an assigned spawnable rate. We use random number generator to decide 
 whether they can spawn or not.
-Each gym contains a perfect maze. The first two gym mazes are binary tree mazes. It's the easiest to generate, and it has a biased texture. The first gym maze tends 
-to have passages leading from upper left to lower right. Then we flip the first maze upside down, treat the previous passage as walls and vice versa to get the second
-maze. The third and fourth gym mazes are going to be generated using the recursive backtracker method, and the final maze is generated using eller's algorithm. 
-The first two mazes are 9 passages(length) x 6 passages(width). Third and fourth maze are 16 x 9 passages. The final maze is going to be 20 x 16 passages. Each
-passage has the width of 1 block, the same as the wall, which covers the edge of the maze, so it's going to be one block more than the passage. Each block contains
-16 pixels. The maze sizes will depend on the number of passages/walls.
+Each gym contains a perfect maze. There are three mazes in total: two smaller mazes and one final larger maze. They are all going to be generated using eller's 
+algorithm. The first maze is 9 passage(length) x 6 passages(width). The second is 16 x 9 passages, and the final maze is going to be 20x16 passages. Each passage
+has the width of 1 block, the same as the wall, which covers the edge of the maze, so it's going to be one block more than the passage. Each block contains 16
+pixels. The maze sizes will depend on the number of passages/walls.
 
 ### Advanced AI
 
@@ -61,8 +59,7 @@ decisions. It will also be able to switch monsters to get the best battle result
 ## Midterm Goals
 
 * UI for a basic map is complete, which contains a single colored background and all the essential entities. The entities include four gyms, a pokemon center, and 
-  a home entity. The entity will have simple coloring. Overworld map is going to be 960 x 640 px. It will be divided into blocks. Each blocks contains 16 px, which
-  is also the size of the player character. 
+  a home entity. The entity will have simple coloring. Overworld map is going to be 80 x 45 blocks. Each block contains 16 px, which is also the size of the player 	character. 
 * Artwork for the expected portions of the open-world map and monsters must be completed based on team member assignments.
 * NPC trainers are scattered on the overworld map. They will be either standing still or moving back and forth. If the player approaches them, it gives the option
   to either battle or bail. The NPC players are all given random pokemons with uniform levels. The battle strategy is going to be random.
