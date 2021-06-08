@@ -60,13 +60,12 @@ walk through each other)
 
 * 15%: Networking allows multiplayer interactions to occur as close as possible to real-time by efficiently 
 relaying data via deterministic lockstep between user devices, gameplay lag is minimized so characters interact as expected by the user (i.e. when their view shows that their punch just hit another user, the game movement and health stats will react accordingly)
-* 15%: Physics Engine allows rigid body movement around the XY plane in an efficient manor, calculates pixel 
-location accordingly, manages forces such as gravity, character weight, and impact due to combat
+* 15%: Physics Engine allows rigid body movement around the XY plane in an efficient manor, calculates pixel location accordingly, manages forces such as gravity, character weight, and impact due to combat. Falling hazards (i.e. boulders, barrels, etc.) are generated that can collide with players and objects on the map.
 * 10%: Keyboard input controls character movement in all directions and performs combat moves, game interprets simultaneous key presses appropriately and responds quickly
 * 10%: Health logic per user affected by their collisions and falling off the platform, triggers game to end when 
 one user's health reaches 0%
 * 12.5%: Combat Hits and Other Collisions Detected based on object location and dimensions under broad phase, collision point and forces are relayed across network and connected devices update accordingly (i.e. player receives a packet indicating they were hit, that info will be relayed for interpetation by the health logic and physics engine)
-* 12.5%: Game is displayed visually with at least 1 Character and 1 Stage designed
+* 12.5%: Game is displayed visually with at least 1 Character, 1 Falling Object, and 1 Stage designed
 
 ## Stretch Goals
 
