@@ -11,11 +11,11 @@ https://github.com/ZHZ110/cs1666-Team-monster_town
 		* Pitt ID: zhz110
 		* Github Username: ZHZ110
 	
-  * Birizibe Gnassingbe
+  	* Birizibe Gnassingbe
 		* Pitt ID: big14
 		* Github Username: Birizibeg
 	
-   * Gurmail Mathon
+   	* Gurmail Mathon
 		* Pitt ID: gsm18
 		* Github Username: gmathon18
 	
@@ -25,11 +25,11 @@ https://github.com/ZHZ110/cs1666-Team-monster_town
 		* Pitt ID: azh15
 		* Github Username: itsyourOOP
 	
-  * Adam Wipprecht
+  	* Adam Wipprecht
 		* Pitt ID: amw290
 		* Github Username: wippra
 	
-  * Burhan Bhatti
+  	* Burhan Bhatti
 		* Pitt ID: bub3
 		* Github Username: 
 
