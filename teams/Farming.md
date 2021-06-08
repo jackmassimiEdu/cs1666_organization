@@ -2,7 +2,7 @@
 
 ## Canonical game repo URL:
 
-https://github.com/jacrgrady/farnans-farmers
+https://github.com/farnans-farmers/farnans-farming-game
 
 ## Team Members
 * Advanced Topic Subteam 1: Economy
@@ -46,6 +46,8 @@ This will be a farming sim with a grid based tile system. The player will be abl
 ### Economy
 
 The Economy Simulation incorporates multiple machine learning concepts to produce a dynamic and realistic economy. Most games have an “a priori” based price system that is put in place by the developers. Our game will use reinforcement learning and other variables to produce a realistic economy based on raw and produced resources, abundance of resources, incentives to pay expenses, and interactions with the player and other vendors. This allows the economy to represent optimal prices for a given environment rather than fixed values.
+
+The paper for this can be seen [here](http://ianparberry.com/pubs/econ.pdf). We will implement our economy based on the details of this paper. The player should be able to interact with merchants as described in this paper. The merchant will create a bid. After the player sells an item, the merchant will update their prices as described in the price update from bid section.
     
 ### Genetics
 
@@ -53,7 +55,7 @@ The Genetics Simulation will allow the traits of plants to change from generatio
 
 ## Midterm Goals
 
-* For the general game we will have the player be able to move around their farm. The player should also be able to plant and harvest from their farm. We will implement a single tool and a single crop that the player will be able to interact with.
+* For the general game we will have the player be able to move around their farm. At this stage, the farm will be 32x32 tiles where each tile is 16x16 pixels. The player should also be able to plant and harvest from their farm. We will implement a single tool and a single crop that the player will be able to interact with.
 * For the genetics side of our game, we will have a single trait that can be passed from parent to offspring.
 * For the economy side, we will have the framework of the economy set up. This includes having a single static vendor that buys crops at a fixed price.
 
