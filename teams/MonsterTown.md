@@ -11,10 +11,6 @@ https://github.com/ZHZ110/cs1666-Team-monster_town
 		* Pitt ID: zhz110
 		* Github Username: ZHZ110
 	
-  	* Birizibe Gnassingbe
-		* Pitt ID: big14
-		* Github Username: Birizibeg
-	
    	* Gurmail Mathon
 		* Pitt ID: gsm18
 		* Github Username: gmathon18
