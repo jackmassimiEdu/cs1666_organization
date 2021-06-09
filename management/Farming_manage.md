@@ -5,7 +5,7 @@
 	* Goals:
 		1. Set term goals for game and pull into organization repo
 2. 06/09 - 06/15
-	* Manager: NAME
+	* Manager: Jack Ansley (jwa31)
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
