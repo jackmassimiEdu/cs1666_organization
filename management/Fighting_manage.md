@@ -9,7 +9,7 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Ethan Dewit (erd56)
 	* Goals:
 		1. GOAL1
 		...
