@@ -2,7 +2,7 @@
 
 ## Canonical game repo URL:
 
-https://github.com/tys25/CS1666_Roguelike
+https://github.com/CS1666-RogueLike/roguelike-repo
 
 ## Team Members
 * Advanced Topic Subteam 1: Procedural Generation
