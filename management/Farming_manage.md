@@ -19,7 +19,7 @@
 		1. GOAL1
 		...
 5. 06/30 - 07/6
-	* Manager: NAME
+	* Manager: Jack Massimi (jvm17)
 	* Goals:
 		1. GOAL1
 		...
