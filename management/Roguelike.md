@@ -9,10 +9,11 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Connor Halloran (cjh138)
 	* Goals:
-		1. GOAL1
-		...
+		1. Set up cargo project in repository for game
+		2. Get simple prototype up and running (box moving around room with collision)
+		3. Research advanced topics (procedural generation and artificial intelligence)
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
