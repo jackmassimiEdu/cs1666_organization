@@ -11,9 +11,8 @@
 3. 06/16 - 06/22
 	* Manager: Connor Halloran (cjh138)
 	* Goals:
-		1. Set up cargo project in repository for game (separate folder from already existing sdl folder)
-		2. Get simple prototype up and running (box moving around 9x15 room with collision against walls, potentially collision with 1x1 rock tiles if time allows)
-		3. Research advanced topics (procedural generation and artificial intelligence)
+		1. Get simple prototype up and running (box moving around 9x15 room with collision against walls, potentially collision with 1x1 rock tiles if time allows)
+		2. Create outline for advanced topics presentation on procedural generation
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
