@@ -35,7 +35,7 @@
 		1. GOAL1
 		...
 8. 07/21 - 07/27
-	* Manager: NAME
+	* Manager: Zixin Yang (ziy13)
 	* Goals:
 		1. GOAL1
 		...
