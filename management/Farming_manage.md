@@ -9,22 +9,25 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Wesley Miller (wam34)
 	* Goals:
-		1. GOAL1
-		...
+		1. Design and implement sprite for the farmer (player character)
+		2. Implement movement of farmer from top-down view
+		3. Copy a single tile over the camera view background
+		4. Design and implement some large object that sits on the farm (farmhouse, 
+			barn, market stall, etc.) with collision detection for the farmer
 4. 06/23 - 06/29
-	* Manager: NAME
+	* Manager: Jayson Patel (jrp134)
 	* Goals:
 		1. GOAL1
 		...
 5. 06/30 - 07/6
-	* Manager: NAME
+	* Manager: Jack Massimi (jvm17)
 	* Goals:
 		1. GOAL1
 		...
 6. 07/07 - 07/13
-	* Manager: REQUIRED
+	* Manager: Branden Brown (bjb137)
 	* Goals:
 		1. GOAL1
 		...
@@ -39,7 +42,7 @@
 		1. GOAL1
 		...
 9. 07/28 - 08/03
-	* Manager: REQUIRED
+	* Manager: Natasha Kamtekar (nak142)
 	* Goals:
 		1. GOAL1
 		...		
