@@ -11,7 +11,9 @@
 3. 06/16 - 06/22
 	* Manager: Ethan Dewit (erd56)
 	* Goals:
-		1. GOAL1
+		1. Get characters on screen
+		2. Basic character collision logic
+		3. Geta basic server/client working (sending a message back and forth)
 		...
 4. 06/23 - 06/29
 	* Manager: NAME
