@@ -9,10 +9,10 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Connor Halloran (cjh138)
 	* Goals:
-		1. GOAL1
-		...
+		1. Get simple prototype up and running (box moving around 9x15 room with collision against walls, potentially collision with 1x1 rock tiles if time allows)
+		2. Create outline for advanced topics presentation on procedural generation
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
