@@ -29,9 +29,9 @@
 		1. GOAL1
 		...
 7. 07/14 - 07/20
-	* Manager: NAME
+	* Manager: Joe Cavanaugh (joc133)
 	* Goals:
-		1. GOAL1
+		1. To be determined...
 		...
 8. 07/21 - 07/27
 	* Manager: NAME
