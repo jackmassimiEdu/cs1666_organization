@@ -13,7 +13,7 @@
 	* Goals:
 		1. Design and implement sprite for the farmer (player character)
 		2. Implement movement of farmer from top-down view
-		3. Design and implement the tiling background of the ground and set size/boundaries of farm
+		3. Copy a single tile over the camera view background
 		4. Design and implement some large object that sits on the farm (farmhouse, 
 			barn, market stall, etc.) with collision detection for the farmer
 4. 06/23 - 06/29

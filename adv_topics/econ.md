@@ -16,16 +16,5 @@
 		* Ask
 		* Sale
 		* Purchase
-* Topic 2 - An explanation on how we can go from a static economy into a fully emergent one - 30 mins 
-	* How static economies work 
+* Topic 2 - An explanation on how we can go from a static economy into a fully emergent one - 10 mins 
 	* How we can implement price difference depending on abundance of items 
-	* How bids and asks are implemented and unknown “true” prices 
-	* https://www.youtube.com/watch?v=PNtKXWNKGN8 - visualization of the 	simulations 
-	* How relationships are able to affect bids and prices 
-* Topic 3 - An example in MATLAB - 20 mins 
-	* Fixed economy simulation
-		* Fixed prices
-		* No limit on resources
-	* Bid/Ask economy
-	* Incentives included for vendors 
-	* Relationships that affect prices 
