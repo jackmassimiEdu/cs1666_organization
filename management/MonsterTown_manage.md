@@ -27,7 +27,7 @@
 		1. GOAL1
 		...
 6. 07/07 - 07/13
-	* Manager: REQUIRED
+	* Manager: Burhan Bhatti(bub3)
 	* Goals:
 		1. GOAL1
 		...
