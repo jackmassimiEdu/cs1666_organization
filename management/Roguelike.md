@@ -39,7 +39,7 @@
 		1. GOAL1
 		...
 9. 07/28 - 08/03
-	* Manager: REQUIRED
+	* Manager: Dan Rothman (der57)
 	* Goals:
 		1. GOAL1
 		...		
