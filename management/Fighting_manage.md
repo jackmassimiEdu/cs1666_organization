@@ -25,22 +25,22 @@
 		1. GOAL1
 		...
 6. 07/07 - 07/13
-	* Manager: REQUIRED
-	* Goals:
-		1. GOAL1
-		...
-7. 07/14 - 07/20
-	* Manager: Alexis Sanders
-	* Goals:
-		1. GOAL1
-		...
-8. 07/21 - 07/27
 	* Manager: Zixin Yang (ziy13)
 	* Goals:
 		1. GOAL1
 		...
+7. 07/14 - 07/20
+	* Manager: NAME
+	* Goals:
+		1. GOAL1
+		...
+8. 07/21 - 07/27
+	* Manager: NAME
+	* Goals:
+		1. GOAL1
+		...
 9. 07/28 - 08/03
-	* Manager: REQUIRED
+	* Manager: Alexis Sanders (als429)
 	* Goals:
 		1. GOAL1
 		...		
