@@ -25,7 +25,7 @@
 		1. GOAL1
 		...
 6. 07/07 - 07/13
-	* Manager: REQUIRED
+	* Manager: Zixin Yang (ziy13)
 	* Goals:
 		1. GOAL1
 		...
@@ -35,7 +35,7 @@
 		1. GOAL1
 		...
 8. 07/21 - 07/27
-	* Manager: Zixin Yang (ziy13)
+	* Manager: NAME
 	* Goals:
 		1. GOAL1
 		...
