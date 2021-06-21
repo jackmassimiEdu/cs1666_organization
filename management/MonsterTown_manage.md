@@ -9,10 +9,13 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Gurmail Mathon (gsm18)
 	* Goals:
-		1. GOAL1
-		...
+		1. Create additional monster for each team member
+		2. Decide stats, attack points, defense points, any type for each monster created and its type weakness in order to apply to logic of battling monsters and basic battle sequence if time allows.
+		3. Research Eller's algorithm for maze generation and gain familiarity.
+		4. Get character sprite on the screen and allow for movement with keyboard.
+		5. Collision logic with obstacles on map
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
@@ -24,7 +27,7 @@
 		1. GOAL1
 		...
 6. 07/07 - 07/13
-	* Manager: REQUIRED
+	* Manager: Burhan Bhatti(bub3)
 	* Goals:
 		1. GOAL1
 		...

@@ -9,12 +9,13 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Ethan Dewit (erd56)
 	* Goals:
-		1. GOAL1
+		1. Get a character on screen from sprite sheet and moving with keyboard commands
+		3. Geta basic server/client working (sending a message back and forth)
 		...
 4. 06/23 - 06/29
-	* Manager: NAME
+	* Manager: Kenny Meier (kem243)
 	* Goals:
 		1. GOAL1
 		...
@@ -34,7 +35,7 @@
 		1. GOAL1
 		...
 8. 07/21 - 07/27
-	* Manager: NAME
+	* Manager: Zixin Yang (ziy13)
 	* Goals:
 		1. GOAL1
 		...
