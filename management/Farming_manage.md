@@ -19,8 +19,11 @@
 4. 06/23 - 06/29
 	* Manager: Jayson Patel (jrp134)
 	* Goals:
-		1. GOAL1
-		...
+		1. Design 4 crop spites with growth stages
+		2. Impliment crop growth within the game 
+		3. Create a menu with hotkeys to switch between tools and seeds 
+		4. Impliment animations for the player sprite 
+		5. Create a way to progress time
 5. 06/30 - 07/6
 	* Manager: Jack Massimi (jvm17)
 	* Goals:
