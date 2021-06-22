@@ -15,3 +15,15 @@
 * Topic 2 - Implementing procedural generation (10 min.)
 	* Cellular automata for interior room generation
 	* Maze algorithm for dungeon pathing (one room to another)
+
+## Presentation 2
+
+* Topic 1
+	* Details
+	* Details
+	* Details
+* Topic 2
+	* Details
+	* Details
+	* Details
+...
