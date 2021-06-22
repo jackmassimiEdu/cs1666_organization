@@ -6,7 +6,7 @@
 	* Examples of procedural generation in popular video games
 		* Random pick from set of possible "room designs" in Spelunky for each room
 		* Minecraft (biome-style generation)
-		* Binding of Issac (**find how they accomplish PCG**) 
+		* Binding of Issac ([info here](https://bindingofisaacrebirth.fandom.com/wiki/Level_Generation)) 
 		* etc.
 * Topic 1 - Analyzing procedural generation in dungeons (20 min.)
 	* Summary of research [paper](https://www.researchgate.net/publication/260800341_Procedural_Generation_of_Dungeons)
