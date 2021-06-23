@@ -16,11 +16,11 @@
 4. 06/23 - 06/29
 	* Manager: Kenny Meier (kem243)
 	* Goals:
-		1. Collision logic (hit boxes)
-		2. Edits to inputHandler, double hitting buttons, and movement
+		1. Collision logic (Hit/Hurt boxes, 6 per character)
+		2. Edits to inputHandler, fix double hitting buttons so that they don't interrupt animation starting (same for when a button is held down it interrupts the animation), and movement (sprint, crouch, jump)
 		3. Fixing jump offset issue
-		4. Hazards functionality started
-		5. Networking functionality (locally communicating character state, hit info)
+		4. Hazards functionality: sprite, bounding box, animation
+		5. Network Functionality: communicating character state and hit information to a LAN server
 		6. Physics functionality (starting with gravity and momentum)
 		7. Background visual added to assets + shifting + bounding box
 		...
