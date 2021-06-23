@@ -16,7 +16,13 @@
 4. 06/23 - 06/29
 	* Manager: Kenny Meier (kem243)
 	* Goals:
-		1. GOAL1
+		1. Collision logic (hit boxes)
+		2. Edits to inputHandler, double hitting buttons, and movement
+		3. Fixing jump offset issue
+		4. Hazards functionality started
+		5. Networking functionality (locally communicating character state, hit info)
+		6. Physics functionality (starting with gravity and momentum)
+		7. Background visual added to assets + shifting + bounding box
 		...
 5. 06/30 - 07/6
 	* Manager: NAME
