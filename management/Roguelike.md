@@ -22,7 +22,7 @@
 	* Manager: Trae Yelovich (tay31)
 	* Goals:
 		1. Delegate presenting time across procedural generation subteam and prepare for live presentation
-		2. Add one of each enemy to the game (structure, sprites, very basic logic)
+		2. Add one of each enemy (3 types - attack, health, and speed) to the game (structure, sprites, very basic logic)
 		3. When the character runs out of health, they will die and have to reset
 		4. User interface design is completed and components are operational (health bar, power-up dial, etc.)
 		5. Character can attack and kill enemies
