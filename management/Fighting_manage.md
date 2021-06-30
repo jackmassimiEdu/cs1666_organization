@@ -28,7 +28,15 @@
 5. 06/30 - 07/6
 	* Manager: Nicholas Pilotti (nsp29)
 	* Goals:
-		1. GOAL1
+		1. Fixing movement issues
+		2. Fix FPS panicking at 60 frames
+		3. Insert designed background into combat area
+		4. Establish a floor according to the background
+		5. Establish window bounds for fighter (fighter cannot exit the screen in any direction)
+		6. Physics: Introduce gravity and acceleration for character and hazard (make hazard accelerate and hit the initialized floor)
+		7. Physics: Begin collision boxes with window bindings and floor corrected
+		8. Networking: Begin bidirectional chat with a server
+		9. Networking: Begin impl for moving two rectangles between clients with server intermediary
 		...
 6. 07/07 - 07/13
 	* Manager: Zixin Yang (ziy13)
