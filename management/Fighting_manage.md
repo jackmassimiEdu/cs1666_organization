@@ -33,7 +33,7 @@
 		3. Insert designed background into combat area
 		4. Establish a floor according to the background
 		5. Establish window bounds for fighter (fighter cannot exit the screen in any direction)
-		6. Physics: Introduce gravity and acceleration for character and Hazards
+		6. Physics: Introduce gravity and acceleration for character and hazard (make hazard accelerate and hit the initialized floor)
 		7. Physics: Begin collision boxes with window bindings and floor corrected
 		8. Networking: Begin bidirectional chat with a server
 		9. Networking: Begin impl for moving two rectangles between clients with server intermediary
