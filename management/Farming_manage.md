@@ -27,8 +27,15 @@
 5. 06/30 - 07/6
 	* Manager: Jack Massimi (jvm17)
 	* Goals:
-		1. GOAL1
-		...
+		1. Get tool interactions on the menu working
+		2. Implement population data struct
+		3. Impelment planting of crops (infinite seeds for now)
+		4. Implement destruction of crops
+		5. Get crops to update on time progression
+		6. Design and implement a market area
+		7. Reorganize some of the functionality in main to their own modules to clean up main
+		8. STRETCH GOAL: Implement interaction with the market with some kind of market ui to 
+			handle selling and buying to the market (would be entirely empty for the time being)
 6. 07/07 - 07/13
 	* Manager: Branden Brown (bjb137)
 	* Goals:

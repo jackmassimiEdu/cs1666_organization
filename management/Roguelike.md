@@ -21,8 +21,11 @@
 5. 06/30 - 07/6
 	* Manager: Trae Yelovich (tay31)
 	* Goals:
-		1. To be determined...
-		...
+		1. Delegate presenting time across procedural generation subteam and prepare for live presentation
+		2. Add one of each enemy (3 types - attack, health, and speed) to the game (structure, sprites, very basic logic)
+		3. When the character runs out of health, they will die and have to reset
+		4. User interface design is completed and components are operational (health bar, power-up dial, etc.)
+		5. Character can attack and kill enemies
 6. 07/07 - 07/13
 	* Manager: Keyon Hedayati (keh204)
 	* Goals:
