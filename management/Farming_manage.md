@@ -54,5 +54,13 @@
 9. 07/28 - 08/03
 	* Manager: Natasha Kamtekar (nak142)
 	* Goals:
-		1. GOAL1
+		1. Implement emergent economy
+		2. Implement market house
+		3. Implement NPC into code 
+		4. Implement vendor production rate
+		5. Implement tool graphics
+		6. Fix all incomplete assets
+		7. Implement food consumption
+		8. Implement parent gene combination for breeding
+		9. STRETCH GOAL: Implement pests and pest resistence gene
 		...		
