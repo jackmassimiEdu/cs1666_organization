@@ -61,6 +61,4 @@
 		5. Implement tool graphics
 		6. Fix all incomplete assets
 		7. Implement food consumption
-		8. Implement parent gene combination for breeding
-		9. STRETCH GOAL: Implement pests and pest resistence gene
-		...		
+		8. Implement parent gene combination for breeding		
