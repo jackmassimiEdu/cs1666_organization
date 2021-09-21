@@ -9,29 +9,32 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: NAME
+	* Manager: Connor Halloran (cjh138)
 	* Goals:
-		1. GOAL1
-		...
+		1. Get simple prototype up and running (box moving around 9x15 room with collision against walls, potentially collision with 1x1 rock tiles if time allows)
+		2. Create outline for advanced topics presentation on procedural generation
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
 		1. GOAL1
 		...
 5. 06/30 - 07/6
-	* Manager: NAME
+	* Manager: Trae Yelovich (tay31)
 	* Goals:
-		1. GOAL1
-		...
+		1. Delegate presenting time across procedural generation subteam and prepare for live presentation
+		2. Add one of each enemy (3 types - attack, health, and speed) to the game (structure, sprites, very basic logic)
+		3. When the character runs out of health, they will die and have to reset
+		4. User interface design is completed and components are operational (health bar, power-up dial, etc.)
+		5. Character can attack and kill enemies
 6. 07/07 - 07/13
-	* Manager: REQUIRED
+	* Manager: Keyon Hedayati (keh204)
 	* Goals:
 		1. GOAL1
 		...
 7. 07/14 - 07/20
-	* Manager: NAME
+	* Manager: Joe Cavanaugh (joc133)
 	* Goals:
-		1. GOAL1
+		1. To be determined...
 		...
 8. 07/21 - 07/27
 	* Manager: NAME
@@ -39,7 +42,7 @@
 		1. GOAL1
 		...
 9. 07/28 - 08/03
-	* Manager: REQUIRED
+	* Manager: Dan Rothman (der57)
 	* Goals:
 		1. GOAL1
 		...		
